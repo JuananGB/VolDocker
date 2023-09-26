@@ -25,6 +25,10 @@
 
 + Creo un archivo HTML llamado index.html en el directorio htdocs .
 
+### 7. Comprobar el acceso desde el navegador:
+
++ Visitamos http://localhost:8000 en el navegador. Debería ver el  "Hola Mundo" que creé.
+
 
 
 
